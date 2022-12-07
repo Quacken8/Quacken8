@@ -11,7 +11,6 @@ I'm rather proficient in Python and LaTeX, right now I'm learning C# and Svelte�
 |It could│          │It could│
 │be worse│          │be worse│
 └───┬────┘          └────▲───┘
-
     │     ┌────────┐     │
     │     │It could│     │
     └─────►be worse├─────┘
