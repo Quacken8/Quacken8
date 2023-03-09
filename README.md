@@ -2,6 +2,7 @@ Hey there, person who wants to give me a job. You came to the right place.
 
 I'm rather proficient in Python and LaTeX, right now I'm learning C#, TS, Svelte…
 
+Review by @JindrazPrahy :
 <img src = "unhinged.png"/>
 
 <!---
