@@ -4,10 +4,11 @@ I'm rather proficient in Python and LaTeX, right now I'm learning C#, TS, Svelte
 
 Review by @JindrazPrahy:<br>
 <img src = "unhinged.png"/>
+<!---
 <br><br><br>
 This is literally what I look like. When you open an issue this is who has to solve it. <br>
 <img src="bunny.gif"/>
-
+--->
 <!---
 ```
           ┌────────┐
