@@ -1,5 +1,5 @@
 
-|Hey there, person who wants to give me a job. You came to the right place. I'm rather proficient in Python and LaTeX, right now I'm learning C#, TS, Svelte… <br><br> Review by @JindrazPrahy: <br><br> <img src = "unhinged.png"/>  |<img src="bunny.gif"/><br>This is literally what I look like. When you open an issue this is who has to solve it.|
+|Hey there, person who wants to give me a job. You came to the right place. I'm rather proficient in Python and LaTeX, right now I'm learning C#, TS, Svelte… <br><br> Review by @JindrazPrahy: <br><br> <img src = "unhinged.png"/>  |<img src="bunny.gif" alt="A pixelart by @asaha_pixelart showing a tiny bunny mashing away at a single keyboard key"/><br>This is literally what I look like. When you open an issue this is who has to solve it.|
 |:---                                                                                      |---:|
 
  
